@@ -1,0 +1,25 @@
+.popup {
+	justify-content: right;
+	float: right;
+	top: 0;
+}
+
+.popup-header {
+	background-image: url("flag-background.png");
+	background-size: 200px, 200px;
+	white-space: nowrap;
+	float: left;
+}
+
+p {
+	font-family: "Times New Roman", serif;
+	background-color: #ffccff;
+}
+
+h2 {
+	color: navy;
+}
+
+h3 {
+	color: navy;
+}

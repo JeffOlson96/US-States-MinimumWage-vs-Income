@@ -1,0 +1,308 @@
+[
+	{
+		"State": "Alabama",
+		"Abrv": "AL",
+		"MinimumWage": 7.25,
+		"LivingWage": 46055
+	},
+	{
+		"State": "Alaska",
+		"Abrv": "AK",
+		"MinimumWage": 9.89,
+		"LivingWage": 53070
+	},
+	{
+		"State": "Arizona",
+		"Abrv": "AZ",
+		"MinimumWage": 11.00,
+		"LivingWage": 43278
+	},
+	{
+		"State": "Arkansas",
+		"Abrv": "AR",
+		"MinimumWage": 9.25,
+		"LivingWage": 46672
+	},
+	{
+		"State": "California",
+		"Abrv": "CA",
+		"MinimumWage": 12.00,
+		"LivingWage": 51386
+	},
+	{
+		"State": "Colorado",
+		"Abrv": "CO",
+		"MinimumWage": 11.10,
+		"LivingWage": 51845
+	},
+	{
+		"State": "Connecticut",
+		"Abrv": "CT",
+		"MinimumWage": 10.10,
+		"LivingWage": 64509
+	},
+	{
+		"State": "Delaware",
+		"Abrv": "DE",
+		"MinimumWage": 8.75,
+		"LivingWage": 48929
+	},
+	{
+		"State": "Florida",
+		"Abrv": "FL",
+		"MinimumWage": 8.46,
+		"LivingWage": 47093
+	},
+	{
+		"State": "Georgia",
+		"Abrv": "GA",
+		"MinimumWage": 7.25,
+		"LivingWage": 46728
+	},
+	{
+		"State": "Hawaii",
+		"Abrv": "HI",
+		"MinimumWage": 10.10,
+		"LivingWage": 43720
+	},
+	{
+		"State": "Idaho",
+		"Abrv": "ID",
+		"MinimumWage": 7.25,
+		"LivingWage": 43369
+	},
+	{
+		"State": "Illinois",
+		"Abrv": "IL",
+		"MinimumWage": 8.25,
+		"LivingWage": 52967
+	},
+	{
+		"State": "Indiana",
+		"Abrv": "IN",
+		"MinimumWage": 7.25,
+		"LivingWage": 48693
+	},
+	{
+		"State": "Iowa",
+		"Abrv": "IA",
+		"MinimumWage": 7.25,
+		"LivingWage": 50937
+	},
+	{
+		"State": "Kansas",
+		"Abrv": "KS",
+		"MinimumWage": 7.25,
+		"LivingWage": 52658
+	},
+	{
+		"State": "Kentucky",
+		"Abrv": "KY",
+		"MinimumWage": 7.25,
+		"LivingWage": 44462
+	},
+	{
+		"State": "Lousiana",
+		"Abrv": "LA",
+		"MinimumWage": 7.25,
+		"LivingWage": 48003
+	},
+	{
+		"State": "Maine",
+		"Abrv": "ME",
+		"MinimumWage": 11.00,
+		"LivingWage": 45992
+	},
+	{
+		"State": "Maryland",
+		"Abrv": "MD",
+		"MinimumWage": 10.10,
+		"LivingWage": 54310
+	},
+	{
+		"State": "Massachusetts",
+		"Abrv": "MA",
+		"MinimumWage": 12.00,
+		"LivingWage": 61637
+	},
+	{
+		"State": "Michigan",
+		"Abrv": "MI",
+		"MinimumWage": 9.45,
+		"LivingWage": 48401
+	},
+	{
+		"State": "Minnesota",
+		"Abrv": "MN",
+		"MinimumWage": 9.86,
+		"LivingWage": 54459
+	},
+	{
+		"State": "Mississippi",
+		"Abrv": "MS",
+		"MinimumWage": 7.25,
+		"LivingWage": 42165
+	},
+	{
+		"State": "Missouri",
+		"Abrv": "MO",
+		"MinimumWage": 8.60,
+		"LivingWage": 48892
+	},
+	{
+		"State": "Montana",
+		"Abrv": "MT",
+		"MinimumWage": 8.50,
+		"LivingWage": 46315
+	},
+	{
+		"State": "Nebraska",
+		"Abrv": "NE",
+		"MinimumWage": 9.00,
+		"LivingWage": 55624
+	},
+	{
+		"State": "Nevada",
+		"Abrv": "NV",
+		"MinimumWage": 8.25,
+		"LivingWage": 45537
+	},
+	{
+		"State": "New Hampshire",
+		"Abrv": "NH",
+		"MinimumWage": 7.25,
+		"LivingWage": 54832
+	},
+	{
+		"State": "New Jersey",
+		"Abrv": "NJ",
+		"MinimumWage": 10.00,
+		"LivingWage": 55162
+	},
+	{
+		"State": "New Mexico",
+		"Abrv": "NM",
+		"MinimumWage": 7.50,
+		"LivingWage": 41338
+	},
+	{
+		"State": "New York",
+		"Abrv": "NY",
+		"MinimumWage": 11.10,
+		"LivingWage": 52898
+	},
+	{
+		"State": "North Carolina",
+		"Abrv": "NC",
+		"MinimumWage": 7.25,
+		"LivingWage": 47481
+	},
+	{
+		"State": "North Dakota",
+		"Abrv": "ND",
+		"MinimumWage": 7.25,
+		"LivingWage": 59202
+	},
+	{
+		"State": "Ohio",
+		"Abrv": "OH",
+		"MinimumWage": 8.55,
+		"LivingWage": 51138
+	},
+	{
+		"State": "Oklahoma",
+		"Abrv": "OK",
+		"MinimumWage": 7.25,
+		"LivingWage": 48330
+	},
+	{
+		"State": "Oregon",
+		"Abrv": "OR",
+		"MinimumWage": 11.25,
+		"LivingWage": 46735
+	},
+	{
+		"State": "Pennsylvania",
+		"Abrv": "PA",
+		"MinimumWage": 7.25,
+		"LivingWage": 53213
+	},
+	{
+		"State": "Rhode Island",
+		"Abrv": "RI",
+		"MinimumWage": 10.50,
+		"LivingWage": 52181
+	},
+	{
+		"State": "South Carolina",
+		"Abrv": "SC",
+		"MinimumWage": 7.25,
+		"LivingWage": 44763
+	},
+	{
+		"State": "South Dakota",
+		"Abrv": "SD",
+		"MinimumWage": 9.10,
+		"LivingWage": 54740
+	},
+	{
+		"State": "Tennessee",
+		"Abrv": "TN",
+		"MinimumWage": 7.25,
+		"LivingWage": 49239
+	},
+	{
+		"State": "Texas",
+		"Abrv": "TX",
+		"MinimumWage": 7.25,
+		"LivingWage": 48494
+	},
+	{
+		"State": "Utah",
+		"Abrv": "UT",
+		"MinimumWage": 7.25,
+		"LivingWage": 43343
+	},
+	{
+		"State": "Vermont",
+		"Abrv": "VT",
+		"MinimumWage": 10.78,
+		"LivingWage": 50309
+	},
+	{
+		"State": "Virginia",
+		"Abrv": "VA",
+		"MinimumWage": 8.75,
+		"LivingWage": 52921
+	},
+	{
+		"State": "Washington",
+		"Abrv": "WA",
+		"MinimumWage": 12.00,
+		"LivingWage": 53705
+	},
+	{
+		"State": "West Virginia",
+		"Abrv": "WV",
+		"MinimumWage": 8.75,
+		"LivingWage": 42659
+	},
+	{
+		"State": "Wisconsin",
+		"Abrv": "WI",
+		"MinimumWage": 7.25,
+		"LivingWage": 51396
+	},
+	{
+		"State": "Wyoming",
+		"Abrv": "WY",
+		"MinimumWage": 7.25,
+		"LivingWage": 58965
+	},	
+	{
+		"State": "District of Columbia",
+		"Abrv": "DC",
+		"MinimumWage": 14.00,
+		"LivingWage": 58803
+	}
+]
